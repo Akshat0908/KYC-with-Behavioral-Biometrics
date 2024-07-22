@@ -53,26 +53,9 @@ Monitor Behavior: Analyzes the current behavior data and calculates an anomaly s
 
 File Structure
 
-behavioral-kyc/
-├── backend/
-│   ├── app.py
-│   ├── models.py
-│   ├── routes.py
-│   ├── requirements.txt
-│   └── ...
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── LoginForm.js
-│   │   │   ├── BehaviorVisualization.js
-│   │   │   └── ...
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── ...
-│   ├── package.json
-│   └── ...
-└── README.md
+
+<img width="392" alt="Screenshot 2024-07-22 at 11 46 12 PM" src="https://github.com/user-attachments/assets/d5dbdd8b-9ac8-4b1e-b04d-2d2f820e3d28">
+
 
 
 
